@@ -1,0 +1,78 @@
+.sec-one
+{
+    background-image: url(../image/4278047231_2bea440c31_o.jpg);
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+
+}
+.nav-one
+{
+    left: 70%;
+}
+.img-one
+{
+   width: 50; 
+}
+.list 
+{
+color: black;
+
+margin-top: 10px;
+
+}
+.list li
+{
+    padding-top: 10px;
+  
+    font-family: 'Indie Flower', cursive;
+font-size: larger;
+font-weight: bold;
+}
+.fix
+{
+    height: 260px;
+    width: 600px;
+}
+.sec-three
+{
+    background-color: rgb(243, 243, 243);
+}
+.big{
+    font-size: 100px;
+    font-weight: bold;
+    color: rgb(58, 58, 58);
+}
+.big-one
+{
+    position: absolute;
+    top: 0px;
+    right: 40%;
+    left: 40%;
+    font-size: 60px;
+    font-weight: bolder;
+    color:rgba(146, 145, 145,0.7);
+   
+}
+#btnUp
+{
+    position: fixed;
+    right: 40px;
+    bottom: 40px;
+    z-index: 1118485959;
+    display: none;
+}
+.item
+{
+    width:25%;
+        float: left;
+        height: 113px;
+        padding: 10px;
+}
+/* .item-one
+{
+    width:20%;
+    float: left;
+    height: 113px;
+    padding: 10px;
+} */
